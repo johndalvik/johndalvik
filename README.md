@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Sortter](https://sortter.fi/)
 
-- 👨‍💻 All of my projects are available at [https://johndalvik.github.io/](https://johndalvik.github.io/)
+- 👨‍💻 Check out my portfolio page at [https://johndalvik.github.io/](https://johndalvik.github.io/)
 
 
 <h3 align="left">Languages and Tools:</h3>
