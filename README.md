@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akos</h1>
 <h3 align="center">A passionate frontend developer from Hungary</h3>
 
-- 🔭 I’m currently working on [Sortter](https://sortter.fi/)
+- 🔭 I’m currently working on [Sortter](https://studocu.com/)
 
-- 👨‍💻 Check out my portfolio page at [https://johndalvik.me/](https://johndalvik.me/)
+- 👨‍💻 Check out my portfolio page at [https://johndalvik.me/](https://akoshorvath.me/)
 
 
 <h3 align="left">Languages and Tools:</h3>
