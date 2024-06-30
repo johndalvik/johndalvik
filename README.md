@@ -1,3 +1,4 @@
+<link rel="preload" href="./github-header-image.png" as="image">
 <img src="./github-header-image.png" width="846" height="189" alt="Header" style="max-width: 100%"/>
 
 ### 🔭 I’m currently working on [Studocu](https://www.studocu.com/)
