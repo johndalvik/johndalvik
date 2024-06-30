@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Akos</h1>
-<h3 align="center">A passionate frontend developer from Hungary</h3>
+![Header](./github-header-image.png)
 
-- 🔭 I’m currently working on [Studocu](https://www.studocu.com/)
+## 🔭 I’m currently working on [Studocu](https://www.studocu.com/)
 
-- 👨‍💻 Check out my portfolio page at [https://akoshorvath.me/](https://akoshorvath.me/)
+## 👨‍💻 Check out my portfolio page at [https://akoshorvath.me/](https://akoshorvath.me/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
