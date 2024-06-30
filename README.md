@@ -1,4 +1,4 @@
-<img src="./github-header-image.png" alt="Header" style="max-width: 100%; width: 100%; height: auto; aspect-ratio: 900 / 248"/>
+<img src="./github-header-image.png" alt="Header" width="900" height="248" style="max-width: 100%; aspect-ratio: 900 / 248"/>
 
 ### 🔭 I’m currently working on [Studocu](https://www.studocu.com/)
 
