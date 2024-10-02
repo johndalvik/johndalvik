@@ -1,5 +1,3 @@
-<img src="./github-header-image.png" alt="Header" width="900" height="248" style="max-width: 100%;height:auto;"/>
-
 ### 🔭 I’m currently working on [Studocu](https://www.studocu.com/)
 
 ### 👨‍💻 Check out my portfolio page at [https://akoshorvath.me/](https://akoshorvath.me/)
